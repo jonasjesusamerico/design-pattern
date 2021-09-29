@@ -1,4 +1,4 @@
-package model;
+package solid.aula1e2.model;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;

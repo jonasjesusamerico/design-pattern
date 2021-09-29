@@ -1,4 +1,4 @@
-package model;
+package solid.aula1e2.model;
 
 public enum Cargo {
 

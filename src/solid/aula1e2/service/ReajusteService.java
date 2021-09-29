@@ -1,10 +1,10 @@
-package service;
+package solid.aula1e2.service;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 
 import solid.ValidacaoException;
-import solid.model.Funcionario;
+import solid.aula1e2.model.Funcionario;
 
 public class ReajusteService {
 
